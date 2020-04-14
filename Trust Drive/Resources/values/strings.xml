@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trust_Drive</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_here">Enregistrer</string>
+    <string name="click_login">Retour, se connecter</string>
+  <string name="mapkey">AIzaSyCJYWk5DcYoLM8JSUXTWKQQVPjHwZpe9rQ</string>
+</resources>
