@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160818879173",
+    "firebase_url": "https://trustdrive-b2d25.firebaseio.com",
+    "project_id": "trustdrive-b2d25",
+    "storage_bucket": "trustdrive-b2d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160818879173:android:313fe6aec621ddbc0e6eac",
+        "android_client_info": {
+          "package_name": "com.companyname.trust_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160818879173-b3h4064si4cau3m61vh1doedb711op6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.trust_drive",
+            "certificate_hash": "11c327c16dbffed666c87b11f260cbf20c1b9b83"
+          }
+        },
+        {
+          "client_id": "160818879173-8k5209e1tockh2p3a8i7er536h2mqh5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBA-qebMWayyjKSl1LDI8Kk1TOITYQz8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160818879173-8k5209e1tockh2p3a8i7er536h2mqh5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

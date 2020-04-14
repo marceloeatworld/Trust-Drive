@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1B3147</color>
+    <color name="colorAccent">#3498db</color>
+    <color name="splashBackground">#ffffff</color>
+
+    <color name="trustdriveWhite">#ffffff</color>
+    <color name="trustdrivePrimary">#BA7DE8</color>
+    <color name="trustdriveAccentColor">#DA347C</color>
+    <color name="trustdrivePrimaryDark">#96A8FF</color>
+    <color name="trustdriveAsh">#e2e2e2</color>
+    <color name="trustdriveBlack">#000</color>
+  <color name="trustdriveAccentClick">#DA3448</color>
+  
+</resources>
